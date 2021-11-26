@@ -1,7 +1,11 @@
 [package]
 name = "atm_parser_helper"
+description = "Some very simple parsing utilities."
 version = "1.0.0"
+repository = "https://github.com/AljoschaMeyer/atm_parser_helper"
+authors = ["Aljoscha Meyer <mail@aljoscha-meyer.de>"]
 edition = "2021"
+license = "CC-PDDC"
 
 [dependencies]
 serde = "1.0.126"
